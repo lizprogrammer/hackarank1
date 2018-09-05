@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/hackarank1/bin/Debug/netcoreapp2.0/hackarank1.deps.json
+/home/ubuntu/workspace/hackarank1/bin/Debug/netcoreapp2.0/hackarank1.runtimeconfig.json
+/home/ubuntu/workspace/hackarank1/bin/Debug/netcoreapp2.0/hackarank1.runtimeconfig.dev.json
+/home/ubuntu/workspace/hackarank1/obj/Debug/netcoreapp2.0/hackarank1.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/hackarank1/obj/Debug/netcoreapp2.0/hackarank1.AssemblyInfo.cs
+/home/ubuntu/workspace/hackarank1/bin/Debug/netcoreapp2.0/hackarank1.dll
+/home/ubuntu/workspace/hackarank1/bin/Debug/netcoreapp2.0/hackarank1.pdb
+/home/ubuntu/workspace/hackarank1/obj/Debug/netcoreapp2.0/hackarank1.dll
+/home/ubuntu/workspace/hackarank1/obj/Debug/netcoreapp2.0/hackarank1.pdb
